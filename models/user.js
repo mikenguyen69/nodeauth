@@ -25,6 +25,8 @@ var UserSchema = mongoose.Schema({
 	}
 });
 
+//Testing commit 
+
 var User = module.exports = mongoose.model('User', UserSchema);
 
 module.exports.getUserById = function(id, callback) {

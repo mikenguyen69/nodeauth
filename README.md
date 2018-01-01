@@ -21,4 +21,5 @@
 1. Seperated Views and Routes
 2. Register and Login 
 3. Menu CSS with dynamic menu appearance depending on activities
+4. Form validations for input 
 ```
